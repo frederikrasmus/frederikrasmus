@@ -1,16 +1,39 @@
-## Hi there 👋
+# Frederik Rasmus Wendelboe Hansen
+  
+Computer Science (AP Degree) Student with broad technical interests and a strong motivation to grow within the IT field.
+Based in Denmark.
 
-<!--
-**frederikrasmus/frederikrasmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java • Spring Boot • MySQL  
+JavaScript • HTML • CSS  
+Docker • CI/CD • Git  
+
+---
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=frederikrasmus&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frederikrasmus&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=frederikrasmus&theme=tokyonight)
+
+---
+
+## About
+
+- 4th semester Computer Science student  
+- Backend development using Java & Spring Boot
+- Working with relational databases (MySQL)  
+- Experience with containerization and CI/CD workflows  
+- Focused on writing clean, structured and maintainable code  
+
+---
+
+## Contact
+
+LinkedIn: www.linkedin.com/in/frederik-wendelboe-hansen-861937323
+Email: frederikrasmus@hotmail.dk
