@@ -16,15 +16,15 @@ Docker • CI/CD • Git
 ## GitHub Stats
 
 <p align="center">
-  <img src="![Frederiks Stats](https://github-readme-stats.vercel.app/api?username=frederikrasmus&show_icons=true&theme=tokyonight&count_private=true)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frederikrasmus&show_icons=true&theme=tokyonight&count_private=true" alt="Frederik Stats" />
 </p>
 
 <p align="center">
-  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frederikrasmus&layout=compact&theme=tokyonight)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frederikrasmus&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=frederikrasmus&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=frederikrasmus&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 
